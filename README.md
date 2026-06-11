@@ -26,13 +26,3 @@ Personal portfolio showcasing 7+ years of work across machine learning, NLP/LLM 
 - Intersection Observer for scroll reveals
 - Typewriter animation for hero tagline
 
-## How to Update
-
-1. Open `index.html` in any text editor
-2. Update contact email near the bottom (`href="mailto:..."`)
-3. Update project GitHub links by adding `<a href="https://github.com/KKkarthikK/your-repo">` wrappers to project cards
-4. To replace profile photo: convert new photo to base64 and replace the `data:image/jpeg;base64,...` value in the `<img>` tag
-
----
-
-*Built with intention. No frameworks. No bloat.*
